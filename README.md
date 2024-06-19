@@ -20,6 +20,6 @@ Each cell interacts with its eight neighbors (horizontal, vertical, and diagonal
 - **z:** Clears all live cells from the grid
 - **r:** Generates a random distribution of live cells 
 - **Predefined Initialization options:**
-  1- Boat (Still Life) 
-  2- Pulsar (Oscillator) 
+  1- Boat (Still Life) <br>
+  2- Pulsar (Oscillator) <br>
   3- Glider (Spaceship)
