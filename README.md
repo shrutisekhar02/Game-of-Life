@@ -23,3 +23,7 @@ Each cell interacts with its eight neighbors (horizontal, vertical, and diagonal
   1- Boat (Still Life) <br>
   2- Pulsar (Oscillator) <br>
   3- Glider (Spaceship)
+
+## Instructions to play
+When the python file is run, user must first input the tile size in the terminal (feature to specify size of grid). A tile size of 20 is optimal. The game is initially paused, user can either add live cells or press r to generate a random distribution (or any of the predefined initialization options). Rest of the simulation controls are given above.
+
